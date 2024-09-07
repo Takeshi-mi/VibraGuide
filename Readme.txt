@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+# VibraGuide
+O guia por vibração para se localizar nos jogos. 
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Autores:
+Takeshi Miura
+Sara Candido Fernandes
